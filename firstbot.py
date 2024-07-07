@@ -3,7 +3,7 @@ import requests
 import json
 
 # API endpoint and headers
-API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyDwsxg_tXmaRmvRTGoiCvPq4mPHV9PDDTE'
+API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=enteryourkey'
 HEADERS = {'Content-Type': 'application/json'}
 
 # Function to generate response from the API
